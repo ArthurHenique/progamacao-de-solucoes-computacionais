@@ -1,4 +1,4 @@
-package exemplo;
+package exemplogit;
 
 public class Teste {
 
